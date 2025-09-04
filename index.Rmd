@@ -1,0 +1,30 @@
+---
+title: "Jason Lu"
+image: "headshot.JPG"
+links:
+  - label: GitHub
+    url: "https://github.com/jasonlu2"
+  - label: Portfolio
+    url: "https://jasonlu.me/"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I'm a full-time student at the University of Texas at Austin (Hook 'em 🤘) studying Statistics and Data Science and pursuing a minor in Computer Science, a BI Analyst at the PGA of America, and was an AI/ML Intern at Fidelity this past summer.
+
+When I'm not grinding school work and work work, I enjoy a bunch of hobbies:  
+
+* Strength training (PRs: 235 bench, 305 squat)
+* Bouldering
+* Playing competitive video games with my friends and coworkers
+* Trying new food
+* Playing golf
+
+
+If wanna learn more about me, check out my personal portfolio, as this is just a little test in creating a website through R.
+
+***
+
+Last built at `r Sys.time()`
